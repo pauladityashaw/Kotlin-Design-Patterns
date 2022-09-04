@@ -1,0 +1,19 @@
+This chapter covers structural patterns in Kotlin.
+
+In general, structural patterns deal with relationships between objects.
+
+We'll discuss how to extend the functionality of our objects without producing complex class
+hierarchies. We'll also discuss how to adapt to changes in the future or fix some design
+decisions taken in the past, as well as how to reduce the memory footprint of our program.
+
+In this chapter, we will cover the following patterns:
+Decorator
+Adapter
+Bridge
+Composite
+Facade
+Flyweight
+Proxy
+
+By the end of this chapter, you'll have a better understanding of how to compose your objects
+so that they can be simpler to extend and adapt to different types of changes.

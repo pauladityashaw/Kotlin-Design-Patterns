@@ -1,0 +1,19 @@
+In this chapter, we have learned when and how to use creational design patterns.
+
+We started by discussing how to use the object keyword to construct a singleton class, and then we
+discussed the use of companion object if you need a Static Factory Method.
+
+We also covered how to assign multiple variables at once using destructuring declarations.
+Then, we discussed smart casts, and how they can be applied in the Abstract Factory design pattern
+to create families of objects.
+
+We then moved to the Builder design pattern and learned that functions can have default parameter
+values. We then learned that we can refer to their arguments using not only positions but also names.
+
+Finally, we covered the copy() function of the data classes, and how it helps us when implementing
+the Prototype design pattern to produce similar objects with slight changes.
+
+
+You should now understand how to use creational design patterns to better manage your objects.
+In the next chapter, we'll cover the second family of design patterns: structural patterns.
+These design patterns will help us create extensible and maintainable object hierarchies.

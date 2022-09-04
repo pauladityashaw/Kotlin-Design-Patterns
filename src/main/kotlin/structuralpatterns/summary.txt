@@ -1,0 +1,3 @@
+- the decorator pattern with the keyword by
+- operator overloading
+-
