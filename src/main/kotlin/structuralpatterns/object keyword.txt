@@ -1,0 +1,5 @@
+In the previous chapter, we discussed two different uses of the object keyword. In the global scope,
+it creates a Singleton object. When used together with the companion keyword inside of a class, it
+creates a place for defining static functions. The same keyword can also be used to generate anonymous
+classes. Anonymous classes are classes that are created on the fly, usually to implement an
+interface in an ad-hoc manner.

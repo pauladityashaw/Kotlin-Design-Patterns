@@ -1,0 +1,13 @@
+TYPE ALIASING:
+
+Kotlin allows us to provide alternative names for existing types. These are called aliases.
+To declare an alias, we use a new keyword: typealias.
+From now on, we can use Meters instead of plain old Int to return from our move() method.
+These aren't new types. The Kotlin compiler will always translate PointsOfDamage to Long
+during compilation.
+
+Using them provides two advantages:
+    1.The first advantage is better semantics (as in our case). We can tell exactly what the
+    meaning of the value we're returning is.
+    2.The second advantage is being concise. Type aliases allow us to hide complex generic expressions.
+    We'll expand on this in the following sections.

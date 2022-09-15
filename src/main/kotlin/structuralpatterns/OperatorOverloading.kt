@@ -1,7 +1,7 @@
 package structuralpatterns
 
 
-// OPEREATOR OVERLOADING
+// OPEREATOR OVERLOADING - not a design pattern
 
 // Most programming languages support some form of operator overloading. Let's take Java as an
 // example and look at the following two lines:
